@@ -1,3 +1,8 @@
+### Fork from https://github.com/ChrisMaire/unity-native-sharing
+
+### TL;DR / How to use
+Just call ShareScreenshotWithText from Share.cs on the button click handler.
+
 # unity-native-sharing
 A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 
