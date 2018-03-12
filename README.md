@@ -5,10 +5,10 @@ Based on https://github.com/ChrisMaire/unity-native-sharing/issues/33#issuecomme
 
 4 AAR files you have to include for this to work:
 
-support-compat-.aar
-support-core-utils-.aar
-support-media-compat-.aar
-support-v4-.aar
+* support-compat-.aar
+* support-core-utils-.aar
+* support-media-compat-.aar
+* support-v4-.aar
 
 # unity-native-sharing
 A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
